@@ -1,2 +1,2 @@
 # Hello-World
-Repository for start using GitHup
+Repository for start using GitHub
