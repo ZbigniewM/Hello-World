@@ -1,3 +1,3 @@
 # Hello-World
 Repository for start using GitHup
-Edited in branchone
+I'm gonna use GitHub to lern computer science and programming.
